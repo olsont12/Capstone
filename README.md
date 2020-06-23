@@ -7,7 +7,8 @@ I personally plant a variety of milkweed, the host plant forMonarchs, in my own 
 Over the last few years, my family has become educated in the life cycle of different species of butterflies, gardening for butterflies and environmental factors of different butterfly species and other pollinators.  Because of this, we have planted nectar plants to attract different species of butterflies and host plants to encourage them to reproduce.  We have been fortunate to observe the life cycle of three different species.  It has allowed me to connect with another of my interests – photography.  I am concerned about the population of the Monarchs.  
 
 
-Data Question Are there any changes in dates of migrations (spring and fall) for various locations?
+Data Questions 
+Are there any changes in dates of migrations (spring and fall) for various locations?
 What effect did weather play?
 Population year to year?
 Changes in Milkweed Growth?
